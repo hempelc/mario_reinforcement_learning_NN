@@ -1,3 +1,5 @@
 # mario_reinforcement_learning_NN
-A project to train a NN to beat mario levels using reinforcement learning.
-This project is a work in progress.
+![Mario NN](image.jpg)
+In this project I aim to train a NN using reinforcement learning to beat the first Super Mario Land level.
+The training involves OpenAI Gym.
+This project is a work in progress!
