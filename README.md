@@ -1,4 +1,4 @@
-# mario_reinforcement_learning_NN
+# *_Super Mario Land reinforcement learning NN_*
 <img src="https://github.com/hempelc/mario_reinforcement_learning_NN/blob/main/image.png" alt="Mario NN" width="400"/>
 
 In this project I aim to train a NN using reinforcement learning to beat the first Super Mario Land level.
